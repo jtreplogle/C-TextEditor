@@ -1,0 +1,9 @@
+c:\users\jreplogle\documents\visual studio 2015\Projects\BasicTextEditor\BasicTextEditor\bin\Debug\BasicTextEditor.exe.config
+c:\users\jreplogle\documents\visual studio 2015\Projects\BasicTextEditor\BasicTextEditor\bin\Debug\BasicTextEditor.exe
+c:\users\jreplogle\documents\visual studio 2015\Projects\BasicTextEditor\BasicTextEditor\bin\Debug\BasicTextEditor.pdb
+c:\users\jreplogle\documents\visual studio 2015\Projects\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.csprojResolveAssemblyReference.cache
+c:\users\jreplogle\documents\visual studio 2015\Projects\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.Form1.resources
+c:\users\jreplogle\documents\visual studio 2015\Projects\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.Properties.Resources.resources
+c:\users\jreplogle\documents\visual studio 2015\Projects\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.csproj.GenerateResource.Cache
+c:\users\jreplogle\documents\visual studio 2015\Projects\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.exe
+c:\users\jreplogle\documents\visual studio 2015\Projects\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.pdb
